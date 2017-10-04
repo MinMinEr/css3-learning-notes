@@ -1,0 +1,26 @@
+h3,p{
+	color: red;
+	text-align:center;
+}
+h3{
+	text-indent: 2em;
+}
+#p1{
+	text-transform: capitalize;
+}
+#p2{
+	text-transform: lowercase;
+}
+#p3{  
+	text-transform: uppercase;
+}
+/*距左 距上 清晰度 颜色*/
+#p4{
+	text-shadow:5px 5px 5px red;
+}
+#p5{
+	color: black;
+	width: 200px;
+	text-wrap:normal;
+
+}

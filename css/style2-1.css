@@ -1,0 +1,24 @@
+/*使用background-color*/
+/* body{
+	background-color: grey;
+} */
+/* p{
+	background-color: aqua;
+	width:150px;
+	height: 800px;
+	padding: 10px;
+} *//*超出了范围*/
+
+
+/*使用background-image*/
+/* 使用background-repeat 是否重复*/
+/*使用background-position*/
+/*background-attachment：默认滚动*/
+/*backgound-size可以确定背景的大小*/
+body{
+	background-image: url("../images/1.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-attachment: fixed;
+	/*position的一个值表示图片所处在的位置*/
+}
